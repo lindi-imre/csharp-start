@@ -1,0 +1,5 @@
+c:\users\imre\documents\visual studio 2015\Projects\CreateClass\CreateClass\bin\Debug\CreateClass.exe.config
+C:\Users\Imre\Documents\Visual Studio 2015\Projects\CreateClass\CreateClass\bin\Debug\CreateClass.exe
+C:\Users\Imre\Documents\Visual Studio 2015\Projects\CreateClass\CreateClass\bin\Debug\CreateClass.pdb
+C:\Users\Imre\Documents\Visual Studio 2015\Projects\CreateClass\CreateClass\obj\Debug\CreateClass.exe
+C:\Users\Imre\Documents\Visual Studio 2015\Projects\CreateClass\CreateClass\obj\Debug\CreateClass.pdb
