@@ -1,0 +1,12 @@
+C:\DEV\CKeritesProjects\TimerEvents\TimerEvents\bin\Debug\TimerEvents.exe.config
+C:\DEV\CKeritesProjects\TimerEvents\TimerEvents\bin\Debug\TimerEvents.exe
+C:\DEV\CKeritesProjects\TimerEvents\TimerEvents\bin\Debug\TimerEvents.pdb
+C:\DEV\CKeritesProjects\TimerEvents\TimerEvents\obj\Debug\TimerEvents.csprojResolveAssemblyReference.cache
+C:\DEV\CKeritesProjects\TimerEvents\TimerEvents\obj\Debug\TimerEvents.Form1.resources
+C:\DEV\CKeritesProjects\TimerEvents\TimerEvents\obj\Debug\TimerEvents.Properties.Resources.resources
+C:\DEV\CKeritesProjects\TimerEvents\TimerEvents\obj\Debug\TimerEvents.csproj.GenerateResource.Cache
+C:\DEV\CKeritesProjects\TimerEvents\TimerEvents\obj\Debug\TimerEvents.exe
+C:\DEV\CKeritesProjects\TimerEvents\TimerEvents\obj\Debug\TimerEvents.pdb
+D:\CodeCool\csharp-start\TimerEvents\TimerEvents\bin\Debug\TimerEvents.exe.config
+D:\CodeCool\csharp-start\TimerEvents\TimerEvents\obj\Debug\TimerEvents.exe
+D:\CodeCool\csharp-start\TimerEvents\TimerEvents\obj\Debug\TimerEvents.pdb

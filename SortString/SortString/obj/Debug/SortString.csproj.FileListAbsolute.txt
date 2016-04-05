@@ -1,0 +1,8 @@
+C:\DEV\CKeritesProjects\SortString\SortString\bin\Debug\SortString.exe.config
+C:\DEV\CKeritesProjects\SortString\SortString\bin\Debug\SortString.exe
+C:\DEV\CKeritesProjects\SortString\SortString\bin\Debug\SortString.pdb
+C:\DEV\CKeritesProjects\SortString\SortString\obj\Debug\SortString.exe
+C:\DEV\CKeritesProjects\SortString\SortString\obj\Debug\SortString.pdb
+D:\CodeCool\csharp-start\SortString\SortString\bin\Debug\SortString.exe.config
+D:\CodeCool\csharp-start\SortString\SortString\obj\Debug\SortString.exe
+D:\CodeCool\csharp-start\SortString\SortString\obj\Debug\SortString.pdb
